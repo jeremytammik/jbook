@@ -40,7 +40,7 @@ Pascal Mercier (Pseudonym von Peter Bieri): Nachtzug nach Lissabon (2004)
 2019: Joseph Kanon: The Good German, Carol Birch: Jamrach's Menagerie, Tim Krohn: Quatemberkinder, William Boyd: Sweet Caress, Michel Houellebecq: Serotonin, Michael Ondatje: Warlight, Lloyd Jones: Mister Pip
 2020: Peter Temple: The Broken Shore, Annie Proulx: The Shipping News, Simon Mawer: The Glass Room
 2021: Robert Menasse: Die Hauptstadt, Tim Parks: Cleaver + Europa, Juli Zeh: Ueber Menschen, William Gibson: Agency
-2022: Scott Peck: The Different Drum; The creation of true community; the first step to world peace
+2022: Amelie Nothomb: Soif, Scott Peck: The Different Drum; The creation of true community; the first step to world peace
 
 top ten (2017):
 
@@ -545,7 +545,7 @@ Neidhoefer -- http://www.sine-causa.de
 2021-09-09 Ian Rankin: Resurrection Men [en] [a brilliant and complex Scottish muder inquiry with Inspector Rebus in trouble to gether with other troublemakers, all of them super tough hard cops, everybody playing double and triple crossing games and never letting on; the best Ian Rankin I've come across so far; could read more of this]
 2021-09-16 Didier van Cauwelaert: Un aller simple [fr] [a very sweet romantic poetic story about a young frenchman challenged and coiping masterfully with love and fantasy and reality; i want to read more by van Cauwelaert; his books are legion]
 2021-09-26 Isla Dewar: It could happen to you [en] [a wise and loving Scottish women's love story with life and humanity, a love declaration to returning home and settling with everyday life and security and comfort; I'll gladly read more of her books]
-2021-10-09 William Gibson: Agency [en] [a brilliant sci-fi including a critical look at politics and its helpless and fruitless attempts to control big business, the pandemy, AI and other challenges, includin an original new idea on time travel and its impossibility, with lots of AI optimism; love it, Gibson is a true visionary, coined (?) the term CCA, competitive control area, where it is unclear who holds the power: government, warlords, multinatial companies, criminal organisations... which is where we are right now, isn't it?]
+2021-10-09 William Gibson: Agency [en] [a brilliant sci-fi including a critical look at politics and its helpless and fruitless attempts to control big business, the pandemy, AI and other challenges, including an original new idea on time travel and its impossibility, with lots of AI optimism; love it, Gibson is a true visionary, coined (?) the term CCA, competitive control area, where it is unclear who holds the power: government, warlords, multinatial companies, criminal organisations... which is where we are right now, isn't it?]
 2021-10-12 Giallo Panettone [it] [a collection of nine different short crime or detective stories, all dealing with food and/or christmas, several of them absoilutely brilliant, very sweet and loving and/or very italian]
 2021-10-16 Charles Frazier: Thirteen Moons [en] [a very beautiful endless melancholy sad love story about indian and early western frontier culture, gets a bit weary towards the end]
 2021-10-18 Ian McEwan: Enduring Love [en] [recommended by Helene, very impressive and heartwrenching, totally convincing poortrait of a deep loving trusting relationship tested very hard by rationality versus human feeling]
@@ -591,6 +591,7 @@ Patricia recommends: Simon Mawer: Tightrope, The Glass Room
 Gerald Mylog highly recommends Douglas Adams: Doctor Gently's Holistic Detective Agency
 To Kill a Mockingbird -- British librarians ranked the book ahead of the Bible as one "every adult should read before they die".
 Vril, the coming race https://en.wikipedia.org/wiki/Vril
+Robert J Sawyer -- maris tammik: cara is suggesting this author ;)
 
 english:
 
@@ -704,15 +705,17 @@ Guillaume Musso fille Brooklyn Apartment Paris
 italian:
 
 Antonio Manzini, Il vicequestore Rocco Schiavone:
-  1. Pista nera
-  2. La costola di Adamo
-  3. Non è stagione
-  4. Era di maggio
-  5. Rocco va in vacanza
-  6. Cinque indagini romane per Rocco Schiavione
-  7. 7-7-2007
-  8. Castore e Polluce
-  9. Pulvis et umbra
+  1 Pista nera (Il vicequestore Rocco Schiavone Vol. 1) (Italian Edition)
+  2 La costola di Adamo (Il vicequestore Rocco Schiavone Vol. 2) (Italian Edition)
+  3 Non è stagione (Il vicequestore Rocco Schiavone Vol. 3) (Italian Edition)
+  4 Era di maggio (Il vicequestore Rocco Schiavone Vol. 4) (Italian Edition)
+  5 7-7-2007 (Il vicequestore Rocco Schiavone Vol. 7) (Italian Edition)
+  6 Pulvis et umbra (Il vicequestore Rocco Schiavone Vol. 9) (Italian Edition)
+  7 Fate il vostro gioco (Il vicequestore Rocco Schiavone Vol. 11) (Italian Edition)
+  8 Rien ne va plus (Il vicequestore Rocco Schiavone Vol. 12) (Italian Edition)
+  9 Ah l'amore l'amore (Il vicequestore Rocco Schiavone Vol. 15) (Italian Edition)
+  10 Vecchie conoscenze (Il vicequestore Rocco Schiavone Vol. 17) (Italian Edition)
+  11 Le ossa parlano (Il vicequestore Rocco Schiavone Vol. 18) (Italian Edition)
 Antonio Manzini, Orfani bianchi
 Scaccia: Il giorno della civetta (civatta?)
 Alessandro Baricco
@@ -803,7 +806,7 @@ Yann Martell, The life of pi
 
 Cornelius Hasselblatt, Estnische Grammatik
 
-Ake Edwardson
+Åke Edwardson
 
 http://www.norstedts.se/forfattare.asp?CategoryID=141&ArticleID=1193&ForfattarID=168
 
@@ -828,4 +831,13 @@ Sabine Ging recommends a book about gitanos by Ildefonso Falcones, La reina desc
 
 Maris recommends: Cory Doctorow, https://craphound.com, https://pluralistic.net
 
+William Gibson -- https://en.wikipedia.org/wiki/William_Gibson#Selected_works
+  Blue Ant trilogy (Hubertus Bigend):
+    Pattern Recognition (2003)
+    Spook Country (2007)
+    Zero History (2010)
+  Jackpot trilogy
+    The Peripheral (2014)
+    Agency (2020)
+    Jackpot (TBD)
 
