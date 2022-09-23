@@ -75,7 +75,7 @@ books lent out to kean:
 2007-12-18: Amelie Nothomb: Peplum
 2007-12-18: Michel Houellebecq: La possibilite d'une ile
 
-books read:
+books read before I started maintaining this list with dates:
 
 David Guterson: East of the Mountains
 David Guterson: Snow Falling on Cedars
@@ -579,6 +579,7 @@ Neidhoefer -- http://www.sine-causa.de
 2022-09-09 Yuval Noah Harari: Sapiens - A Brief History of Humankind [en] [a brilliant, amazingly open-minded, eye-opening and neutral (hence automatically, unintentionally, critical) history af humans, the evolution and history of different species, cognition, language, agriculture, myth, religion, trade, empires, industry, science, anthropocene, and where might this lead to]
 2022-09-11 Hansjoerg Schneider: Flattermann [de] [an early and cool extremely nice easy-going whodunnit in which hunkeler does next to nothing except try to continue his vacation, swim in the rhine, moan and complain and start getting sentimental in his middle age]
 2022-09-14 Milena Michiko Flasar: Herr Kato spielt Familie [de] [a very nice and loving slightly poetical story about an estranged couple, wife and retired husband, and new impulses that lead to movement and a new path in their relationship]
+2022-09-23 Fred Vargas: Debout les morts [fr] [beautiful weird story with charming characters developing slowly and accelerating tremendously at the end with several huge surprising twitst in a row; this is before adamsberg, intruducing the three historical evangelists Mathias, Marc and Lucien and Marc's uncle Vandoosler, ex-policeman, pondering a mysterious young oak tree that appears out of nowwhere is somebody's garden]
 
 -here-and-now-
 
