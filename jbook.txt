@@ -596,7 +596,7 @@ Neidhoefer -- http://www.sine-causa.de
 2023-01-18 Jan Weiler: Maria, ihm schmeckt's nicht [de] [a very sweet and funny love declaration from a German man to south Italian cculture, in particular represented by his father in law]
 2023-01-25 Julie Zeh: Zwischen Welten ]de] [yet another brilliant loving book depicting completely opposite points of view of current society and culture; topics range from social media, shitstorms, democracy, liberalism, agricultural politics, right-wing extremism, political correctness, racism, diversity, mobbing, many of the currently trendig questions]
 2023-02-22 Douglas Stuart: Shuggie Baim [en] [painfully touching and beautiful autobiographic story of a child loving and caring for his chronically alcoholic mother in unbelievably poor circumstances in glasgow in the 1980s and 90s, welldeserved booker prize winner 2020]
-2023-03-14 Cory Doctorov: Walkaway [en] [a brilliant philosophical scifi similar to William Gibson's Agency, focused on community, cooperation, communication, appreciation, relationships, exploitation, rich exploiters fighting for a world of inequality, walkaways proving that we live in a world of surplus, not shortage, post-scarcity gift economy, on-site fabrication of everything you need, and eternal life using digital simulation of the human mind]
+2023-03-14 Cory Doctorow: Walkaway [en] [a brilliant philosophical scifi similar to William Gibson's Agency, focused on community, cooperation, communication, appreciation, relationships, exploitation, rich exploiters fighting for a world of inequality, walkaways proving that we live in a world of surplus, not shortage, post-scarcity gift economy, on-site fabrication of everything you need, and eternal life using digital simulation of the human mind]
 2023-03-20 Ransom Riggs: Miss Peregrines Home for Peculiar Children [en] [a very weird, slightly naive and slightly silly book wrapped around a collection of antique photos; it was interesting to read to see where it would go, but i would not read it again, or anything else by ransom, or recommend it to anyone exzcept for its weirdness]
 2023-04-09 Neal Stephenson: Termination Shock [en] [a nice juidy fat near future sci-fi book on geoengineering and the political reactions to that with some relationships and people dramas mixed in, also intersting facts on Sikhs, the Line of Actual Control LAC, Gatka fighting and drone usage for video streaming and modern warfare]
 2023-04-18 Cory Doctorov: Attack Surface [en] [a scifi more or less in the current real-world present about mass surveillance, hacking, whistleblowrs, protestors, dictators and other power-hungry folks and politics; not as nice as Walkaway by far]
@@ -623,6 +623,11 @@ Neidhoefer -- http://www.sine-causa.de
 2023-11-19 Susanne AbeL: Was ich nie gesagt habe - Gretchens Schicksalsfamilie [de] [a very nice and deep story of love, relationships, family, and above all the right of every human being to know the identity of their biological parents]
 2023-11-22 Jakob Arjouni: Ein Mann, ein Mord [de] [another cool kayankaya detective story in frankfurt, about racism and fluechtlinge and corruption and abschiebung and rather complex networks between the official and the nether worlds]
 2023-12-12 Miranda Cowley Heller: The Paper Palace [en] [an extremely beautiful loving, emotional, exciting, moving love story triangle with two completely different passions, the infinite irrational childhood infatuation and the mature grown-up love, told in a 24-hour story interspersed with an entire life]
+2023-12-16 Len Deighton: Spy Hook [en] [part one of a good old spy thriller trilogy, pre-dating john le carree, 1989, still with UK spies, americans, old nazis, communists, checkpoint charlie and co, millions disappeared, double or treble-crossing with nobody knowing and all rules barred, no holds barred]
+2023-12-21 Len Deighton: Spy Line [en] [part two of a good old spy thriller trilogy, pre-dating john le carree, 1989, still with UK spies, americans, old nazis, communists, checkpoint charlie and co, millions disappeared, double or treble-crossing with nobody knowing and all rules barred, no holds barred]
+2023-12-26 Len Deighton: Spy Sinker [en] [part three of a good old spy thriller trilogy, pre-dating john le carree, 1989, still with UK spies, americans, old nazis, communists, checkpoint charlie and co, millions disappeared, double or treble-crossing with nobody knowing and all rules barred, no holds barred]
+2024-01-06 Joachim Meyerhoff: Alle Tote fliegen hoch Amerika [de] [apparently autobiographical describing his time as an exchange student in the US, his difficulties being himself, and the grief over his brother's death; very readable]
+2024-01-13 Joachim Meyerhoff: Ach, diese Lücke, diese entsetyliche Lücke [de] [apparently autobiographical describing his time in the Schauspielschule Muenchen, his huge difficulties playacting, and his close relationship to his grandparents; very readable]
 
 -here-and-now-
 
@@ -777,17 +782,40 @@ Guillaume Musso fille Brooklyn Apartment Paris
 italian:
 
 Antonio Manzini, Il vicequestore Rocco Schiavone:
-  1 Pista nera (Il vicequestore Rocco Schiavone Vol. 1) (Italian Edition)
-  2 La costola di Adamo (Il vicequestore Rocco Schiavone Vol. 2) (Italian Edition)
-  3 Non è stagione (Il vicequestore Rocco Schiavone Vol. 3) (Italian Edition)
-  4 Era di maggio (Il vicequestore Rocco Schiavone Vol. 4) (Italian Edition)
-  5 7-7-2007 (Il vicequestore Rocco Schiavone Vol. 7) (Italian Edition)
-  6 Pulvis et umbra (Il vicequestore Rocco Schiavone Vol. 9) (Italian Edition)
-  7 Fate il vostro gioco (Il vicequestore Rocco Schiavone Vol. 11) (Italian Edition)
-  8 Rien ne va plus (Il vicequestore Rocco Schiavone Vol. 12) (Italian Edition)
-  9 Ah l'amore l'amore (Il vicequestore Rocco Schiavone Vol. 15) (Italian Edition)
-  10 Vecchie conoscenze (Il vicequestore Rocco Schiavone Vol. 17) (Italian Edition)
-  11 Le ossa parlano (Il vicequestore Rocco Schiavone Vol. 18) (Italian Edition)
+  1 Pista nera (Il vicequestore Rocco Schiavone Vol. 1)
+  2 La costola di Adamo (Il vicequestore Rocco Schiavone Vol. 2)
+  3 Non è stagione (Il vicequestore Rocco Schiavone Vol. 3)
+  4 Era di maggio (Il vicequestore Rocco Schiavone Vol. 4)
+  5 7-7-2007 (Il vicequestore Rocco Schiavone Vol. 7)
+  6 Pulvis et umbra (Il vicequestore Rocco Schiavone Vol. 9)
+  7 Fate il vostro gioco (Il vicequestore Rocco Schiavone Vol. 11)
+  8 Rien ne va plus (Il vicequestore Rocco Schiavone Vol. 12)
+  9 Ah l'amore l'amore (Il vicequestore Rocco Schiavone Vol. 15)
+  10 Vecchie conoscenze (Il vicequestore Rocco Schiavone Vol. 17)
+  11 Le ossa parlano (Il vicequestore Rocco Schiavone Vol. 18)
+  12 ELP
+  13 Riusciranno i nostri eroi a ritrovare l'amico misteriosamente scomparso in Sud America?
+  --
+  1 Pista nera (Il vicequestore Rocco Schiavone Vol. 1) (Italian Edition) -- Un vicequestore nato e cresciuto a Trastevere, che odia lo sci, le montagne, la neve e il freddo viene trasferito ad Aosta. Rocco Schiavone ha combinato qualcosa di grosso per meritare un esilio come questo. È un poliziotto corrotto, ama la bella vita. È violento, sarcastico nel senso più romanesco di esserlo, saccente, infedele, maleducato con le donne, cinico con tutto e chiunque, e odia il suo lavoro. Però ha talento. Una rilettura della tradizione del giallo all’italiana, capace di coniugare lo sguardo dolente del neorealismo e la risata sfrontata di una commedia di avanspettacolo.
+  2 La costola di Adamo -- --
+  3 Non è stagione -- --
+  4 Era di maggio -- --
+  5 Rocco va in vacanza (Il vicequestore Rocco Schiavone Vol. 5) (Italian Edition) -- Rocco Schiavone, il triste tenebroso di Antonio Manzini, scopre un piccolo ributtante intrigo sul volo per le vacanze e rischia di provocare, con l’aria che tira, un grosso guaio. Il racconto 'Rocco va in vacanza' (38 pagine) è tratto dall'antologia 'Vacanze in giallo' (Sellerio 2014).
+  6 Cinque indagini romane per Rocco Schiavone (Il vicequestore Rocco Schiavone Vol. 6) (Italian Edition) -- Questi cinque racconti sono stati pubblicati per la prima volta in altrettante raccolte a tema di autori vari pubblicate dal 2012 in poi da Sellerio. Protagonista il vicequestore Rocco Schiavone, un personaggio fuori dagli schemi: scontroso, irritabile, trasgressivo al limite del lecito, ma con un senso della giustizia tutto suo. Una rilettura della tradizione del giallo all’italiana, capace di coniugare lo sguardo dolente del neorealismo e la risata sfrontata di una commedia di avanspettacolo.
+  7 7-7-2007 (Il vicequestore Rocco Schiavone Vol. 7) (Italian Edition) -- La nuova indagine del vicequestore Rocco Schiavone. Una rilettura della tradizione del giallo all’italiana, capace di coniugare crimine e passione, lo sguardo più dolente alla risata più sfrontata. In autunno su Rai Due la serie televisiva tratta dai romanzi di Rocco Schiavone. Con Marco Giallini e Isabella Ragonese.
+  8 Castore e Polluce (Il vicequestore Rocco Schiavone Vol. 8) (Italian Edition) -- Una vetta valdostana ha inghiottito per sempre uno scalatore: Rocco Schiavone, il poliziotto romano creato da Antonio Manzini con un cuore tenero sotto strati di scuro, deve salire dove mai vorrebbe per vedere la montagna assassina. Il racconto 'Castore e Polluce' (38 pagine) è tratto dall'antologia 'Turisti in giallo' (Sellerio 2015).
+  9 Pulvis et umbra -- --
+  10 L'anello mancante. Cinque indagini di Rocco Schiavone -- --
+  11 Fate il vostro gioco -- --
+  12 Rien ne va plus (Il vicequestore Rocco Schiavone Vol. 12) (Italian Edition) -- Un nuovo capitolo del grande Romanzo di Rocco Schiavone, un uomo duro, ruvido, cinico ma con una umanità insospettabile, «l’amico di cui non si può più fare a meno» Bruno Ventavoli (TuttoLibri).
+  13 L'eremita (Il vicequestore Rocco Schiavone Vol. 13) (Italian Edition) -- Rocco Schiavone, il truce tenerissimo vicequestore creato da Antonio Manzini è alle prese con il caso di un innocuo eremita trovato morto in una chiesetta abbandonata in alta quota. Il racconto 'L'eremita' (46 pagine) è tratto dall'antologia 'Un anno in giallo' pubblicata nel 2017.
+  14 L'accattone (Il vicequestore Rocco Schiavone Vol. 14) (Italian Edition) -- Il Capodanno del vicequestore Rocco Schiavone non potrebbe essere più ruvido: a martellate è stato spaccato il cranio di un pensionato-barbone. Unico testimone un altro barbone. E in più è in attesa di un trasferimento punitivo. Il racconto 'L'accattone' è tratto dall'antologia 'Capodanno in giallo' pubblicata nel 2012.
+  15 Ah, l'amore, l'amore -- Una nuova indagine per Rocco Schiavone costretto ad indagare da un letto di un ospedale per un caso di malasanità. E intanto il vicequestore ha quasi cinquant'anni, certe durezze si attenuano, forse un amore si affaccia. Sullo sfondo prendono più rilievo le vicende private della squadra. E immancabilmente un'ombra, di quell'oscurità che mai lo lascia, osserva da un angolo della strada lì fuori.costretto ad indagare da un letto di un ospedale per un caso di malasanità. E intanto il vicequestore ha quasi cinquant'anni, certe durezze si attenuano, forse un amore si affaccia. Sullo sfondo prendono più rilievo le vicende private della squadra. E immancabilmente un'ombra, di quell'oscurità che mai lo lascia, osserva da un angolo della strada lì fuori.
+  16 L'amore ai tempi del Covid-19 (Il vicequestore Rocco Schiavone Vol. 16) (Italian Edition) -- L’omaggio di Antonio Manzini ai lettori, un racconto inedito, un’indagine di Rocco Schiavone per sorridere un po’ e sostenere, chi lo volesse, l’ospedale Spallanzani di Roma con una donazione all’indirizzo: https://donazioni.inmi.it/.
+  17 Vecchie conoscenze -- --
+  18 Le ossa parlano -- Ein Arzt im Ruhestand entdeckt im Wald menschliche Knochen. Es ist der Leichnam eines Kindes. Michela Gambino von der Forensik in Aosta, privat so phantasievoll paranoid, dass Rocco Schiavone sich oft in der Psychiatrie wähnt, aber außerordentlich kompetent, schafft es, die wichtigsten Details zu ermitteln: etwa zehn Jahre alt, Tod durch Strangulation, wahrscheinlich Gewalt. Die Untersuchung der Funde, eine komplexe Ermittlung voller Hindernisse, führt schließlich zu einem Namen und einem Datum: Mirko, der sechs Jahre zuvor verschwunden war. Seine Mutter, eine alleinstehende Frau, hatte nie aufgegeben. Er wurde zuletzt gesehen, wie er nach dem Unterricht auf einer niedrigen Mauer in der Nähe der Schule saß und offenbar auf jemanden wartete. Ein kalter Fall für den Vize-Polizisten Schiavone, der ihn nicht wie üblich auf der zehnten Ebene löst, sondern mit schmerzhaftem Mitgefühl und mit dem Ekel, sich mit den Geheimcodes einer unmenschlichen Welt auseinandersetzen zu müssen. Eine Untersuchung, die ihn zwingt, logisch und systematisch vorzugehen, um Nachrichten und Hinweise aus dem Untergrund zu entschlüsseln. Und um eng mit seinen Kollegen und Untergebenen zusammenzuarbeiten, deren Privatleben er immer besser kennenlernt: Antonios rücksichtslose Liebesaffären, Italos Schiffbruch, Casellas und Derutas jüngste sentimentale Abrechnungen, sogar D'Intinos unerwartete Sensibilität, die im Grunde komischen Fixierungen der beiden Männer im Labor. Er ist von den Echos der Vergangenheit umgeben, zu denen der Geist von Marina, seiner ermordeten Frau, einen pulsierenden Kommentar abgibt. Er merkt immer mehr, dass er für andere Liebschaften unzureichend ist. Es ist, als ob die Einsamkeit zum anspruchsvollen Begleiter wird, ohne den er nicht auskommt. Dies ist vielleicht die grausamste Untersuchung von Rocco Schiavone.
+  19 ELP (Il vicequestore Rocco Schiavone Vol. 19) (Italian Edition) -- Due casi di calda attualità sociale impegnano l’irruente e malinconico Rocco Schiavone. Un marito violento trovato ucciso con un colpo di pistola alla fronte e l’imprenditore di una fabbrica di pellami rimasto ucciso in seguito a un attentato attributo agli ambientalisti dell’ELP. Il vicequestore, con disincanto e scetticismo, inizia la sua indagine controcorrente.
+  20 Riusciranno i nostri eroi a trovare l'amico misteriosamente scomparso in Sud America? (Il vicequestore Rocco Schiavone Vol. 20) (Italian Edition) -- Una missione non ufficiale a migliaia di chilometri da Aosta, tre amici si rincorrono e rincorrono un traditore. Un passaggio cruciale nel grande romanzo di Rocco Schiavone che affronta i suoi fantasmi questa volta per chiudere un cerchio, uno dei più dolorosi della sua vita.
 Antonio Manzini, Orfani bianchi
 Scaccia: Il giorno della civetta (civatta?)
 Alessandro Baricco
@@ -913,3 +941,4 @@ William Gibson -- https://en.wikipedia.org/wiki/William_Gibson#Selected_works
     Agency (2020)
     Jackpot (TBD)
 
+Cory Doctorow, The Lost Cause
