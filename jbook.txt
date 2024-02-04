@@ -599,7 +599,7 @@ Neidhoefer -- http://www.sine-causa.de
 2023-03-14 Cory Doctorow: Walkaway [en] [a brilliant philosophical scifi similar to William Gibson's Agency, focused on community, cooperation, communication, appreciation, relationships, exploitation, rich exploiters fighting for a world of inequality, walkaways proving that we live in a world of surplus, not shortage, post-scarcity gift economy, on-site fabrication of everything you need, and eternal life using digital simulation of the human mind]
 2023-03-20 Ransom Riggs: Miss Peregrines Home for Peculiar Children [en] [a very weird, slightly naive and slightly silly book wrapped around a collection of antique photos; it was interesting to read to see where it would go, but i would not read it again, or anything else by ransom, or recommend it to anyone exzcept for its weirdness]
 2023-04-09 Neal Stephenson: Termination Shock [en] [a nice juidy fat near future sci-fi book on geoengineering and the political reactions to that with some relationships and people dramas mixed in, also intersting facts on Sikhs, the Line of Actual Control LAC, Gatka fighting and drone usage for video streaming and modern warfare]
-2023-04-18 Cory Doctorov: Attack Surface [en] [a scifi more or less in the current real-world present about mass surveillance, hacking, whistleblowrs, protestors, dictators and other power-hungry folks and politics; not as nice as Walkaway by far]
+2023-04-18 Cory Doctorow: Attack Surface [en] [a scifi more or less in the current real-world present about mass surveillance, hacking, whistleblowrs, protestors, dictators and other power-hungry folks and politics; not as nice as Walkaway by far]
 2023-04-22 Julie Hearn: The Merrybegot [en] [a very nice and illuminating historical fairy tale in 15th century england about pixies, fairies, and above all wise healing medicine making midwife women being accused of witchcraft]
 2023-04-23 Marlon James: A Brief History of Seven Killings [en] [booker prize winner, impressive work, mainly about Bob Marley, ghettos, gangs, criminality, corruption and violence in Jamaica, later New York and USA, also diving deep into male homosexuality, cf. https://www.smh.com.au/entertainment/books/bob-marley-and-the-violence-in-jamaica--a-brief-history-of-seven-killings-one-of-marlon-james-little-jokes-20150131-131yt4.html]
 2023-06-03 Edward P. Jones: The Known World [en] [extremely interesting and fascinating collection of anecdotes playing in the pre-US Commonwealth of Virginia and all circling around various aspects of keeping slaves, prior to the civil war, with several very poetic passages, winner of the Pulitzer Prize]
@@ -620,7 +620,7 @@ Neidhoefer -- http://www.sine-causa.de
 2023-10-14 Ian Rankin: Witch Hunt [en] [an old book of his, from 1993, rather naive but pleasantly readable; I think I've had enough of Rankin now for the rest of my life]
 2023-10-28 Arturo Perez-Reverte: El Italiano [es] [a macho world war II hero story about italian divers in the bay of algeciras attacking british ships in the harbour of gibraltar, based on decades of research and journalistic work, with a super-heroic romantic lover story thrown in; good writing, good story, good language, a pleasure to read]
 2023-11-04 Peter May: The Firemaker [en] [a rather naive and simplistic love story between a US scientist and a Chinese policeman fighting against a deep-laid plot based on well-researched and thorough research about genetic manipulation of rice in china; not really worth reading more of his numerous books, though, in spite of all the prizes he has won with them]
-2023-11-19 Susanne AbeL: Was ich nie gesagt habe - Gretchens Schicksalsfamilie [de] [a very nice and deep story of love, relationships, family, and above all the right of every human being to know the identity of their biological parents]
+2023-11-19 Susanne abel: Was ich nie gesagt habe - Gretchens Schicksalsfamilie [de] [a very nice and deep story of love, relationships, family, and above all the right of every human being to know the identity of their biological parents]
 2023-11-22 Jakob Arjouni: Ein Mann, ein Mord [de] [another cool kayankaya detective story in frankfurt, about racism and fluechtlinge and corruption and abschiebung and rather complex networks between the official and the nether worlds]
 2023-12-12 Miranda Cowley Heller: The Paper Palace [en] [an extremely beautiful loving, emotional, exciting, moving love story triangle with two completely different passions, the infinite irrational childhood infatuation and the mature grown-up love, told in a 24-hour story interspersed with an entire life]
 2023-12-16 Len Deighton: Spy Hook [en] [part one of a good old spy thriller trilogy, pre-dating john le carree, 1989, still with UK spies, americans, old nazis, communists, checkpoint charlie and co, millions disappeared, double or treble-crossing with nobody knowing and all rules barred, no holds barred]
@@ -629,6 +629,8 @@ Neidhoefer -- http://www.sine-causa.de
 2024-01-06 Joachim Meyerhoff: Alle Tote fliegen hoch Amerika [de] [apparently autobiographical describing his time as an exchange student in the US, his difficulties being himself, and the grief over his brother's death; very readable]
 2024-01-13 Joachim Meyerhoff: Ach, diese Lücke, diese entsetyliche Lücke [de] [apparently autobiographical describing his time in the Schauspielschule Muenchen, his huge difficulties playacting, and his close relationship to his grandparents; very readable]
 2024-01-17 Mo Hayder: Skin [en] [a weird english detective story with weird characters, weird behaviour, weird policemen, a bit naive and yet a bit poetic amost; i found it hard to put down in spite of the fact that i wanted to stop reading it]
+2024-01-24 Fred Varga: L'humanité en péril [fr] [a very engaged collection of facts and argumentation to do everything we can to slow down the climate change; sometimes a bit naive, well-intentioned, hopefully effective]
+2024-02-04 Cory Doctorow: Little Brother [en] [playing in San Fransisco, some kids get caught up in anti-terrorist surveillance and security measures and fight for freedom of the poeple, accusing the DHS of terrorism and violation of the US constitutional rights]
 
 -here-and-now-
 
@@ -943,3 +945,8 @@ William Gibson -- https://en.wikipedia.org/wiki/William_Gibson#Selected_works
     Jackpot (TBD)
 
 Cory Doctorow, The Lost Cause
+
+Paolo Bacigalupi, The Water Knife (2015)
+
+The Tangled Lands, Paolo Bacigalupi + Tobias S. Buckell (2018)
+
