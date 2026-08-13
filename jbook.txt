@@ -714,6 +714,9 @@ Neidhoefer -- http://www.sine-causa.de
 2026-06-14 Jessica Anthony: The Convalescent [en] [a very nice and super weird story about a mute widget and the story of the hungarian people, with a strong dash of kafka at the end]
 2026-07-07 Tony Hillerman: Sacred Clowns [en] [an utterly beautiful relaxed flowing detective story whose main purpose is to entertainingly and didactically perfectly explain the difference between the christian and muslim view of law and justice based on punishment and revenge versus the traditional navajo concept of hozho, beauty and balance, which is more focused on healing and finding a perfectly balanced solution to bring all parties back into equilibrium, peace and happiness; beautifully constructed, very deep and subtle]
 2026-07-10 Gregory David Roberts: The Mountain Shadow [en] [an extremely long meandering story leading from violence to peace, sprinkled with lots of mototcycling, fighting, gang war, criminal activities, romances, friendships, very melodramatic, very cool, very exaggerated, repetitive poetical outpourings, feels like the product of several decades of struggle to reproduce the shantaram initial success]
+2026-07-19 Sven Stricker: Soerensen Geht aufs Haus [de] [another extremely pleasant soerensen read. keep them coming]
+2026-08-13 Antonio Manzini: Sotto mentite spoglie [it] [yet another brilliant Rocco Schiavione, maybe the best ever so far, and thicker than the previous ones, a slightly longer and more complex story combining two initially completely separate crimes; community spirit is growing further, he interacts yet more with his team, and materially influences several of his colleagues' life and comportment; he still remains lonely and unhappy, resigned to never being happy again]
+
 
 Gabor Mate: The Myth of Normal
 
@@ -1073,4 +1076,6 @@ https://chatgpt.com/share/69f33fd0-9674-83eb-a93b-7f65b2239d59
 list author and title only:
 
 ~ $ jbook ^2026 | sed -e "s/\(.*\)\[..\].*/\1/"
+
+keigo higashino: verdaechtige geliebte (krimi)
 
